@@ -1,0 +1,4 @@
+According to the base definition, a container is an object that can hold something, an in IT a docker container is
+a software unit that contains all the code, libraries, setting and system libraries of an application that allows
+to run quickly from one environment to another. The concept of container comes from Linux as cgroups and namespaces.
+Docker container runs over Docker engine.
